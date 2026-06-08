@@ -53,6 +53,13 @@ Central de Atendimento TI
 
 ![Chamado](tela-chamado.png)
 
-## Usuario sem acesso
+## Usuário sem acesso detalhes
 
-![Relatório](png)
+![Relatório](usuario-sem-acesso.png)
+
+## Chamado por categoria
+
+![Chamado](tela-chamado.png)
+
+
+

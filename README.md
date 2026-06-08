@@ -49,15 +49,15 @@ Central de Atendimento TI
 
 ![Flow](flow-prioridade-critica.png)
 
-## Chamados por categoria
+## Chamados por Categoria
 
 ![Chamado](tela-chamado.png)
 
-## detalhes de Usuário sem acesso 
+## Detalhes de Usuário sem Acesso 
 
 ![Relatório](usuario-sem-acesso.png)
 
-## Chamado por prioridade
+## Chamados por Prioridade
 
 ![Chamado](tela-chamado-prioridade.png)
 

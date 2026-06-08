@@ -41,3 +41,18 @@ Central de Atendimento TI
 * Dashboards
 * Custom Objects
 * Lightning Experience
+## Dashboard
+
+![Dashboard](dashboard.png)
+
+## Flow
+
+![Flow](flow-prioridade-critica.png)
+
+## Chamado por categoria
+
+![Chamado](tela-chamado.png)
+
+## Usuario sem acesso
+
+![Relatório](png)
